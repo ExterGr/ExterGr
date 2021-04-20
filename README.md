@@ -7,4 +7,4 @@ Skills: HTML / CSS / SASS/ Bootstrap & Material UI / JavaScript / REACT / Node J
 - 📫 How to reach me: ivankudacki@gmail.com 
 
 
-[<img src='https://image.flaticon.com/icons/png/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ivan-kudacki-b769a4154//)  
+[<img src='https://www.iconninja.com/files/313/348/1009/linked-in-linkedin-icon.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ivan-kudacki-b769a4154//)  
